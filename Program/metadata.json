@@ -1,0 +1,6 @@
+{
+  "name": "ระบบงานตรวจกิจการ",
+  "description": "ระบบจัดการและออกหนังสือแจ้งเข้าตรวจกิจการ ประจำเดือนมิถุนายน 2569 อ้างอิงตารางงานเดือนกรกฎาคม 2569 สำหรับคณะทำงานเฉลิมรัตน์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
